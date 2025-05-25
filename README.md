@@ -1,7 +1,7 @@
 # Project--ADULT-DATASET-
 -- USING MICROSOFT EXCEL IN THIS PROJECT--
 
-This project is based on the Adult dataset, originally extracted by Barry Becker from the 1994 U.S. Census database. The dataset ispublicly available through the https://archive.ics.uci.edu/dataset/2/adult .
+This project is based on the Adult dataset, originally extracted by Barry Becker from the 1994 U.S. Census database. The dataset is publicly available through the https://archive.ics.uci.edu/dataset/2/adult .
 It includes both categorical and numerical data, making it ideal for exploring data preprocessing, visualization, statistical analysis, and predictive modeling.
 The main objective of this dataset is to predict whether an individual earns more than $50,000 per year based on various attributes such as age, education, occupation, work hours, and marital status.
 
